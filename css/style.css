@@ -1,0 +1,12 @@
+/* Html from Desingning to CSS */
+html{
+    font-size: 22px;
+ }
+ body{
+     background-color: white;
+     color: black;
+ }
+
+ a{
+    color: black;
+ }
